@@ -62,10 +62,7 @@ public static void practiceInfinteLoop() { /// do it infinitely
 	 }
 		 
 	 }
-	 public static void practiceNestedloop1() {
-		 int e;
-		 int f;
-		 for 
+	// git
+ //test
 	 }
- }
-
+ 
